@@ -1,0 +1,10 @@
+{
+  "name": "Stars Exterminator Inc.",
+  "description": "Queens' Most Trusted Pest Exterminator. Same-day service for wasps, termites, roaches, and more. 5.0 stars with 930+ reviews.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
